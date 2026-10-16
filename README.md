@@ -1,0 +1,2 @@
+# premium-shiitake-log-001-shiitake-log-inoculate-stack
+Stop guessing when your shiitake logs will fruit or why one stack thrived while another failed.  This template turns your inoculation and stacking workflow into a repeatable, data-driven craft. It tracks log origins, inoculation dates, species, stacking configurations, and harvest cycles, so you can replicate your best yields and learn from misfire
